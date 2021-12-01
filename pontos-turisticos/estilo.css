@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:link, a:visited {  
+    background-color: #e7d429;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 14px 25px;
+    border-radius: 40px;
+    transition-duration: 0.5s;
+}
+a:hover{
+    background-color:#2aa70a;
+}
+.img {
+    float: left;
+    width: 350px; height: 300px;
+}
+.cont{
+    width: 300px;
+    height: 300px;
+}
